@@ -1,4 +1,4 @@
-<h1 align="center">Ethereum Smart Contract Inbox</h1>
+<h1 align="center">Ethereum Smart Contract Lottery</h1>
 <br>
 <p align="center">
   <img alt="solidity" title="solidity" src="https://2.bp.blogspot.com/-zCJa5fv2GvI/WZr3runDMxI/AAAAAAAAcOA/xaVaP_FtfAoBgUEudfDuYi5j2lKY-CWwwCLcBGAs/s1600/Solidity.png" width="142">
