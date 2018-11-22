@@ -19,7 +19,7 @@
 
 ## Introduction
 
-An lottery ethereum smart contract.
+A lottery ethereum smart contract.
 
 ## Built-With
 
