@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/yarn-v1.10.1-green.svg" />
-    <img src="https://img.shields.io/badge/node-v8.0.0-green.svg" />
+    <img src="https://img.shields.io/badge/node-v9.8.0-green.svg" />
     <img src="https://img.shields.io/badge/solidity-v0.4.17-green.svg" />
 </p>
 
@@ -23,7 +23,7 @@ A lottery ethereum smart contract.
 
 ## Built-With
 
-- Node v8.0.0
+- Node v9.8.0
 - Yarn v1.10.1
 - Solidity 0.4.17
 - solc 0.4.25
@@ -35,9 +35,9 @@ A lottery ethereum smart contract.
 
 * Clone <a href="https://github.com/maxsilvauk/ethereum-smartcontract-lottery.git">repository</a> into your htdocs.
 ```
-git clone https://github.com/maxsilvauk/ethereum-smartcontract-inbox.git
+git clone https://github.com/maxsilvauk/ethereum-smartcontract-lottery.git
 ```
-* Move to the ethereum-smartcontract-lotter root folder.
+* Move to the ethereum-smartcontract-lottery root folder.
 * Install node dependancies with Yarn
 ```
 yarn
@@ -45,4 +45,9 @@ yarn
 * Testing using Mocha
 ```
 yarn test
+```
+``````
+* Deployment
+```
+cd ethereum && node deploy.js
 ```
